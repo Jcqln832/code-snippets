@@ -1,7 +1,5 @@
 # code-snippets
-/***
-** Table of Contents 
-***/
+/*** Table of Contents ***/
 
 WordPress Snippets includes:
  - Enqueue Google Fonts
